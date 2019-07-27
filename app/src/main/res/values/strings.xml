@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AplikasiRumusLingkaran</string>
+    <string name="jari">Jari-Jari</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Hasil</string>
+    <string name="luaslingkaran">Luas Lingkaran</string>
+    <string name="kelilinglingkaran">Keliling Lingkaran</string>
+    <string name="jariL">Jari-Jari</string>
+    <string name="hasilL">Hasil</string>
+</resources>
